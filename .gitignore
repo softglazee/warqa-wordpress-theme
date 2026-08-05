@@ -1,0 +1,21 @@
+# Packaged builds
+*.zip
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.sublime-*
+*~
+*.swp
+*.bak
+*.orig
+
+# Local environment
+node_modules/
+vendor/
+.env
+debug.log
+error_log

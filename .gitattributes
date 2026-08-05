@@ -1,0 +1,25 @@
+# WordPress.org requires a single line-ending type throughout the theme.
+# Force LF in the repository and in every working copy, including Windows,
+# so a clone can be zipped and submitted without rewriting line endings.
+
+* text=auto eol=lf
+
+*.php   text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.json  text eol=lf
+*.txt   text eol=lf
+*.pot   text eol=lf
+*.md    text eol=lf
+
+# Never touch binaries.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.zip   binary

@@ -1,0 +1,1274 @@
+# Copyright (C) 2026 softglaze
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Warqa 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/warqa\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-05T05:16:10+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: warqa\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Warqa"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://softglaze.com/warqa/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A fast, readable block theme for writers and publishers. Warqa gives long-form articles a comfortable measure, a clear typographic hierarchy and reserved, layout-stable space for a sidebar and in-content placements, so pages stay steady while they load. Includes light and dark style variations, editor-ready patterns and full site editing support."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "softglaze"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://profiles.wordpress.org/softglaze/"
+msgstr ""
+
+#: functions.php:61
+msgid "Rule above"
+msgstr ""
+
+#: functions.php:69
+msgid "Kicker"
+msgstr ""
+
+#: functions.php:77
+msgid "Pull quote"
+msgstr ""
+
+#: functions.php:85
+msgid "Framed"
+msgstr ""
+
+#: functions.php:93
+msgid "Chips"
+msgstr ""
+
+#: functions.php:112
+msgid "Warqa sections"
+msgstr ""
+
+#: functions.php:113
+msgid "Full width sections for building a front page."
+msgstr ""
+
+#: patterns/hero-latest.php
+msgctxt "Pattern title"
+msgid "Hero, latest article"
+msgstr ""
+
+#: patterns/hero-latest.php
+msgctxt "Pattern description"
+msgid "A large featured article introduction for the top of a home page."
+msgstr ""
+
+#: patterns/hero-latest.php:16
+msgid "Featured"
+msgstr ""
+
+#: patterns/hero-latest.php:20
+msgid "Write the headline that earns the click."
+msgstr ""
+
+#: patterns/hero-latest.php:24
+msgid "A short standfirst goes here. Two lines is usually enough to tell a reader whether the article is for them."
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 content"
+msgstr ""
+
+#: patterns/hidden-404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: patterns/hidden-404.php:16
+msgid "The page you asked for is not here. Try a search instead."
+msgstr ""
+
+#: patterns/hidden-404.php:19
+#: patterns/hidden-footer.php:62
+#: patterns/hidden-search-form.php:11
+#: patterns/section-search-band.php:23
+msgctxt "search form label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:19
+#: patterns/hidden-footer.php:62
+#: patterns/hidden-search-form.php:11
+#: patterns/section-search-band.php:23
+msgctxt "search button text"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-author-box.php
+msgctxt "Pattern title"
+msgid "Author box"
+msgstr ""
+
+#: patterns/hidden-author-box.php:16
+msgid "Written by"
+msgstr ""
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/hidden-footer.php
+msgctxt "Pattern title"
+msgid "Footer content"
+msgstr ""
+
+#: patterns/hidden-footer.php:17
+msgid "A journal about how the work actually gets made. Independent, reader funded, and edited by people who have done the job. Replace this with your own description."
+msgstr ""
+
+#: patterns/hidden-footer.php:35
+msgid "Sections"
+msgstr ""
+
+#: patterns/hidden-footer.php:41
+msgid "Choose a section to browse the archive."
+msgstr ""
+
+#: patterns/hidden-footer.php:49
+msgid "Publication"
+msgstr ""
+
+#: patterns/hidden-footer.php:59
+msgid "Search the archive"
+msgstr ""
+
+#: patterns/hidden-footer.php:77
+msgid "Set in Newsreader and Inter. No trackers on this page."
+msgstr ""
+
+#: patterns/hidden-no-results-search.php
+msgctxt "Pattern title"
+msgid "No search results"
+msgstr ""
+
+#: patterns/hidden-no-results-search.php:12
+msgid "Nothing matched your search. Try a different term."
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "No results"
+msgstr ""
+
+#: patterns/hidden-no-results.php:12
+msgid "No posts were found."
+msgstr ""
+
+#: patterns/hidden-read-next.php
+msgctxt "Pattern title"
+msgid "Read next heading"
+msgstr ""
+
+#: patterns/hidden-read-next.php:12
+msgid "Read next"
+msgstr ""
+
+#: patterns/hidden-search-form.php
+msgctxt "Pattern title"
+msgid "Search form"
+msgstr ""
+
+#: patterns/hidden-sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar content"
+msgstr ""
+
+#: patterns/hidden-sidebar.php:12
+#: patterns/page-home.php:75
+#: patterns/section-latest-list.php:16
+msgid "Latest"
+msgstr ""
+
+#: patterns/hidden-sidebar.php:18
+msgid "Topics"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "About, colophon"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern description"
+msgid "An about page with an editorial header, a two column statement, a set of principles and a plain colophon."
+msgstr ""
+
+#: patterns/page-about.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/page-about.php:22
+msgid "A small publication with a long attention span."
+msgstr ""
+
+#: patterns/page-about.php:29
+msgid "What we publish"
+msgstr ""
+
+#: patterns/page-about.php:35
+msgid "We publish essays, criticism and reporting that take a subject seriously enough to stay with it. Most pieces run long. All of them are edited properly before they reach you."
+msgstr ""
+
+#: patterns/page-about.php:39
+msgid "There is no algorithm here, no infinite feed and nothing that follows you between pages. The archive is open, the typography is set for reading, and the fastest way to find something is still to look for it."
+msgstr ""
+
+#: patterns/page-about.php:46
+msgid "How we work"
+msgstr ""
+
+#: patterns/page-about.php:53
+msgid "Edited, not posted"
+msgstr ""
+
+#: patterns/page-about.php:57
+msgid "Every piece is read by a second person before it goes out, and again after."
+msgstr ""
+
+#: patterns/page-about.php:65
+msgid "Paid contributors"
+msgstr ""
+
+#: patterns/page-about.php:69
+msgid "Writers are paid on acceptance, at a rate published openly on this page."
+msgstr ""
+
+#: patterns/page-about.php:77
+msgid "Corrections in public"
+msgstr ""
+
+#: patterns/page-about.php:81
+msgid "When we get something wrong we say so on the piece itself, with the date."
+msgstr ""
+
+#: patterns/page-about.php:90
+msgid "Colophon"
+msgstr ""
+
+#: patterns/page-about.php:94
+msgid "Set in Newsreader and Inter. Built as a block theme, with the measure fixed at roughly seventy characters a line. Replace this paragraph with your own colophon, contact details and posting address."
+msgstr ""
+
+#: patterns/page-advertise.php
+msgctxt "Pattern title"
+msgid "Advertise with us"
+msgstr ""
+
+#: patterns/page-advertise.php
+msgctxt "Pattern description"
+msgid "A media kit page describing the reserved placement areas, readership and rates. The placements are empty layout containers, so you add your own advertising block or plugin."
+msgstr ""
+
+#: patterns/page-advertise.php:18
+msgid "Media kit"
+msgstr ""
+
+#: patterns/page-advertise.php:22
+msgid "Advertise where people actually read."
+msgstr ""
+
+#: patterns/page-advertise.php:26
+msgid "Two placements per page, both reserved in the layout so nothing jumps while the page loads. No pop ups, no interstitials, no autoplay."
+msgstr ""
+
+#: patterns/page-advertise.php:34
+msgid "The placements"
+msgstr ""
+
+#: patterns/page-advertise.php:38
+msgid "Below are the two reserved areas exactly as they appear on the site. They ship empty: drop in your own block, or a block from an advertising plugin, and the space is already held open."
+msgstr ""
+
+#: patterns/page-advertise.php:42
+msgid "Leaderboard, above the article"
+msgstr ""
+
+#: patterns/page-advertise.php:48
+msgid "Sidebar, beside the article"
+msgstr ""
+
+#: patterns/page-blog.php
+msgctxt "Pattern title"
+msgid "Blog index, cards"
+msgstr ""
+
+#: patterns/page-blog.php
+msgctxt "Pattern description"
+msgid "A blog index with a headed intro, a search band, a three column card grid and pagination."
+msgstr ""
+
+#: patterns/page-blog.php:18
+#: patterns/page-writing.php:18
+msgid "The archive"
+msgstr ""
+
+#: patterns/page-blog.php:22
+#: patterns/page-writing.php:22
+msgid "Everything we have published."
+msgstr ""
+
+#: patterns/page-blog.php:26
+msgid "Free to read, in full, with no wall and no sign up. Search it or browse by section."
+msgstr ""
+
+#: patterns/page-contact.php
+msgctxt "Pattern title"
+msgid "Contact details"
+msgstr ""
+
+#: patterns/page-contact.php
+msgctxt "Pattern description"
+msgid "A contact page listing editorial addresses, pitching guidance and a postal address. Contains no form, so it works without any plugin."
+msgstr ""
+
+#: patterns/page-contact.php:18
+msgid "Contact"
+msgstr ""
+
+#: patterns/page-contact.php:22
+msgid "Talk to the desk."
+msgstr ""
+
+#: patterns/page-contact.php:26
+msgid "We read everything that arrives. Replies take about a fortnight, longer if the piece is long."
+msgstr ""
+
+#: patterns/page-contact.php:34
+msgid "Pitches"
+msgstr ""
+
+#: patterns/page-contact.php:38
+msgid "One paragraph on the idea, one on why you are the person to write it, and a link to something you have published before. Replace this with your own address."
+msgstr ""
+
+#: patterns/page-contact.php:46
+msgid "Corrections"
+msgstr ""
+
+#: patterns/page-contact.php:50
+msgid "Tell us what is wrong and where. We publish corrections on the piece itself, dated, rather than quietly editing the text."
+msgstr ""
+
+#: patterns/page-contact.php:58
+msgid "By post"
+msgstr ""
+
+#: patterns/page-contact.php:62
+msgid "Replace this block with your postal address. Review copies and physical submissions are welcome and are not returned."
+msgstr ""
+
+#: patterns/page-contact.php:70
+msgid "What we pay"
+msgstr ""
+
+#: patterns/page-contact.php:74
+msgid "Rates are published rather than negotiated, so nobody has to guess. Replace this paragraph with your own, and say when payment is made as well as how much."
+msgstr ""
+
+#: patterns/page-document.php
+msgctxt "Pattern title"
+msgid "Legal document"
+msgstr ""
+
+#: patterns/page-document.php
+msgctxt "Pattern description"
+msgid "A long form document layout for a privacy policy, cookie notice or terms page, with a last updated line and headed sections."
+msgstr ""
+
+#: patterns/page-document.php:18
+msgid "Privacy notice"
+msgstr ""
+
+#: patterns/page-document.php:22
+msgid "Last updated: replace this date"
+msgstr ""
+
+#: patterns/page-document.php:27
+msgid "This notice explains what this site collects, why, and what you can ask us to do about it. Replace every section below with wording that matches how your own site actually behaves."
+msgstr ""
+
+#: patterns/page-document.php:31
+msgid "What we collect"
+msgstr ""
+
+#: patterns/page-document.php:35
+msgid "Describe here what is stored when somebody reads a page, leaves a comment, or writes to you. Be specific about what is kept and for how long."
+msgstr ""
+
+#: patterns/page-document.php:39
+msgid "Cookies"
+msgstr ""
+
+#: patterns/page-document.php:43
+msgid "List the cookies your site actually sets. A plain WordPress install sets cookies when somebody comments or signs in, and nothing else. If you add analytics or advertising later, say so here."
+msgstr ""
+
+#: patterns/page-document.php:47
+msgid "Who else sees it"
+msgstr ""
+
+#: patterns/page-document.php:51
+msgid "Name your host, and any service that processes data on your behalf. If nothing leaves your own server, say that plainly, because it is worth saying."
+msgstr ""
+
+#: patterns/page-document.php:55
+msgid "Your rights"
+msgstr ""
+
+#: patterns/page-document.php:59
+msgid "Explain how somebody asks for a copy of what you hold, asks for it to be corrected, or asks for it to be deleted, and how long you take to answer."
+msgstr ""
+
+#: patterns/page-document.php:64
+msgid "Questions about this notice go to the address on the contact page."
+msgstr ""
+
+#: patterns/page-home.php
+msgctxt "Pattern title"
+msgid "Home, magazine"
+msgstr ""
+
+#: patterns/page-home.php
+msgctxt "Pattern description"
+msgid "A magazine front page with a full width masthead, a featured writing grid, a quotation band and a latest posts list. Works best with the wide page template."
+msgstr ""
+
+#: patterns/page-home.php:19
+#: patterns/section-masthead.php:16
+msgid "Film, sound and production craft"
+msgstr ""
+
+#: patterns/page-home.php:23
+#: patterns/section-masthead.php:20
+msgid "The work behind the work."
+msgstr ""
+
+#: patterns/page-home.php:27
+#: patterns/section-masthead.php:24
+msgid "Reporting and criticism on how things are actually made, for the people making them. Long pieces, edited properly, with nothing in your way while you read."
+msgstr ""
+
+#: patterns/page-home.php:35
+#: patterns/section-featured-posts.php:16
+msgid "Featured writing"
+msgstr ""
+
+#: patterns/page-home.php:39
+#: patterns/section-featured-posts.php:20
+msgid "Selected by the editors"
+msgstr ""
+
+#: patterns/page-home.php:64
+msgid "“The reader is not a metric. Write as though one careful person is holding the page.”"
+msgstr ""
+
+#: patterns/page-home.php:68
+msgid "From the founding note"
+msgstr ""
+
+#: patterns/page-writing.php
+msgctxt "Pattern title"
+msgid "Writing index"
+msgstr ""
+
+#: patterns/page-writing.php
+msgctxt "Pattern description"
+msgid "An index page listing every piece with its category and date, for readers who want the whole archive in one place."
+msgstr ""
+
+#: patterns/placement-leaderboard.php
+msgctxt "Pattern title"
+msgid "Reserved placement, leaderboard"
+msgstr ""
+
+#: patterns/placement-leaderboard.php
+msgctxt "Pattern description"
+msgid "A layout-stable reserved area above article content. Contains no third-party code. Drop your own block here."
+msgstr ""
+
+#: patterns/placement-leaderboard.php:16
+#: patterns/placement-sidebar.php:16
+msgid "Reserved area. Replace this paragraph with your own content block."
+msgstr ""
+
+#: patterns/placement-sidebar.php
+msgctxt "Pattern title"
+msgid "Reserved placement, sidebar"
+msgstr ""
+
+#: patterns/placement-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout-stable reserved area in the sidebar. Contains no third-party code."
+msgstr ""
+
+#: patterns/section-about-strip.php
+msgctxt "Pattern title"
+msgid "About strip"
+msgstr ""
+
+#: patterns/section-about-strip.php
+msgctxt "Pattern description"
+msgid "A two column statement introducing the publication, with a short label beside a longer paragraph."
+msgstr ""
+
+#: patterns/section-about-strip.php:16
+msgid "Who we are"
+msgstr ""
+
+#: patterns/section-about-strip.php:22
+msgid "We are a small desk covering how film and sound actually get made. No sponsored posts, no affiliate links, and no reviews written from a press release."
+msgstr ""
+
+#: patterns/section-about-strip.php:26
+msgid "Everything is edited before it goes out, corrections are printed on the piece itself, and the archive stays free. Replace this text with your own."
+msgstr ""
+
+#: patterns/section-category-showcase.php
+msgctxt "Pattern title"
+msgid "Category showcase"
+msgstr ""
+
+#: patterns/section-category-showcase.php
+msgctxt "Pattern description"
+msgid "A dark band showing recent pieces from the archive, for spotlighting one strand of coverage."
+msgstr ""
+
+#: patterns/section-category-showcase.php:16
+msgid "From the archive"
+msgstr ""
+
+#: patterns/section-category-showcase.php:20
+msgid "Pieces worth returning to"
+msgstr ""
+
+#: patterns/section-contributors.php
+msgctxt "Pattern title"
+msgid "Contributors"
+msgstr ""
+
+#: patterns/section-contributors.php
+msgctxt "Pattern description"
+msgid "A three column list of contributors with a role and a one line description."
+msgstr ""
+
+#: patterns/section-contributors.php:15
+msgid "Who writes here"
+msgstr ""
+
+#: patterns/section-contributors.php:22
+msgid "Editor"
+msgstr ""
+
+#: patterns/section-contributors.php:26
+#: patterns/section-contributors.php:42
+#: patterns/section-contributors.php:58
+#: patterns/section-praise.php:26
+#: patterns/section-praise.php:38
+#: patterns/section-praise.php:50
+msgid "Replace with a name"
+msgstr ""
+
+#: patterns/section-contributors.php:30
+#: patterns/section-contributors.php:46
+#: patterns/section-contributors.php:62
+msgid "One line about what they cover and where they worked before."
+msgstr ""
+
+#: patterns/section-contributors.php:38
+msgid "Sound"
+msgstr ""
+
+#: patterns/section-contributors.php:54
+msgid "Field reporting"
+msgstr ""
+
+#: patterns/section-cta-split.php
+msgctxt "Pattern title"
+msgid "Split call to action"
+msgstr ""
+
+#: patterns/section-cta-split.php
+msgctxt "Pattern description"
+msgid "A two column call to action with a statement on the left and a button on the right."
+msgstr ""
+
+#: patterns/section-cta-split.php:17
+msgid "Have something worth reporting?"
+msgstr ""
+
+#: patterns/section-cta-split.php:21
+msgid "We read every pitch and answer all of them, including the ones we turn down."
+msgstr ""
+
+#: patterns/section-cta-split.php:28
+msgid "Send a pitch"
+msgstr ""
+
+#: patterns/section-disclosure.php
+msgctxt "Pattern title"
+msgid "Funding disclosure"
+msgstr ""
+
+#: patterns/section-disclosure.php
+msgctxt "Pattern description"
+msgid "A short transparency notice explaining how the publication is funded and how advertising is handled."
+msgstr ""
+
+#: patterns/section-disclosure.php:17
+msgid "How this is funded"
+msgstr ""
+
+#: patterns/section-disclosure.php:23
+msgid "Readers pay for most of what you see here. Where a page carries advertising it is marked, it is never written by us, and it never decides what gets covered."
+msgstr ""
+
+#: patterns/section-disclosure.php:27
+msgid "Replace this with your own funding and advertising policy, and link to it from the footer."
+msgstr ""
+
+#: patterns/section-editors-pick.php
+msgctxt "Pattern title"
+msgid "Editor's pick, wide"
+msgstr ""
+
+#: patterns/section-editors-pick.php
+msgctxt "Pattern description"
+msgid "A single highlighted piece shown wide, with the image beside a large title and standfirst."
+msgstr ""
+
+#: patterns/section-editors-pick.php:16
+msgid "Editor’s pick"
+msgstr ""
+
+#: patterns/section-editors-pick.php:20
+msgid "One piece worth your evening"
+msgstr ""
+
+#: patterns/section-faq.php
+msgctxt "Pattern title"
+msgid "Questions and answers"
+msgstr ""
+
+#: patterns/section-faq.php
+msgctxt "Pattern description"
+msgid "A two column list of questions and answers, useful on an about or advertising page."
+msgstr ""
+
+#: patterns/section-faq.php:15
+msgid "Questions we get asked"
+msgstr ""
+
+#: patterns/section-faq.php:22
+msgid "Do you take pitches from new writers?"
+msgstr ""
+
+#: patterns/section-faq.php:26
+msgid "Yes. Roughly a third of what we run each year is a first piece for us. Replace this answer with your own."
+msgstr ""
+
+#: patterns/section-faq.php:32
+msgid "How long should a piece be?"
+msgstr ""
+
+#: patterns/section-faq.php:36
+msgid "Long enough to finish the argument and no longer. Most run between two and four thousand words."
+msgstr ""
+
+#: patterns/section-faq.php:44
+msgid "When do you pay?"
+msgstr ""
+
+#: patterns/section-faq.php:48
+msgid "On acceptance, not on publication, at the rate printed on the contact page."
+msgstr ""
+
+#: patterns/section-faq.php:54
+msgid "Can I republish a piece?"
+msgstr ""
+
+#: patterns/section-faq.php:58
+msgid "Ask first. We usually say yes if the original is credited and linked."
+msgstr ""
+
+#: patterns/section-featured-posts.php
+msgctxt "Pattern title"
+msgid "Featured writing, three column"
+msgstr ""
+
+#: patterns/section-featured-posts.php
+msgctxt "Pattern description"
+msgid "A three column grid of recent pieces with image, category, title and excerpt, under a headed rule."
+msgstr ""
+
+#: patterns/section-hero.php
+msgctxt "Pattern title"
+msgid "Hero, full width"
+msgstr ""
+
+#: patterns/section-hero.php
+msgctxt "Pattern description"
+msgid "A full width hero with a kicker, a large headline and a standfirst. Add your own background image to the cover block."
+msgstr ""
+
+#: patterns/section-hero.php:16
+msgid "Replace this kicker"
+msgstr ""
+
+#: patterns/section-hero.php:20
+msgid "A headline that carries the whole page."
+msgstr ""
+
+#: patterns/section-hero.php:24
+msgid "Two lines of standfirst is usually enough. Select the cover block to add your own background image behind this text."
+msgstr ""
+
+#: patterns/section-image-feature.php
+msgctxt "Pattern title"
+msgid "Image and text, two column"
+msgstr ""
+
+#: patterns/section-image-feature.php
+msgctxt "Pattern description"
+msgid "A two column feature with an image on one side and a heading, paragraph and link on the other."
+msgstr ""
+
+#: patterns/section-image-feature.php:24
+msgid "Long read"
+msgstr ""
+
+#: patterns/section-image-feature.php:28
+msgid "A headline that sits beside the picture."
+msgstr ""
+
+#: patterns/section-image-feature.php:32
+msgid "Two or three sentences of standfirst belong here. Swap the image for your own and change this text. The column widths hold on mobile by stacking."
+msgstr ""
+
+#: patterns/section-image-feature.php:37
+msgid "Read the piece"
+msgstr ""
+
+#: patterns/section-in-this-issue.php
+msgctxt "Pattern title"
+msgid "In this issue"
+msgstr ""
+
+#: patterns/section-in-this-issue.php
+msgctxt "Pattern description"
+msgid "A numbered contents list of recent pieces, in the style of a printed issue."
+msgstr ""
+
+#: patterns/section-in-this-issue.php:16
+msgid "In this issue"
+msgstr ""
+
+#: patterns/section-in-this-issue.php:20
+msgid "Everything published this month"
+msgstr ""
+
+#: patterns/section-latest-grid.php
+msgctxt "Pattern title"
+msgid "Latest, four column grid"
+msgstr ""
+
+#: patterns/section-latest-grid.php
+msgctxt "Pattern description"
+msgid "A four column grid of recent pieces with image, category and title, for the lower half of a front page."
+msgstr ""
+
+#: patterns/section-latest-grid.php:16
+msgid "More reading"
+msgstr ""
+
+#: patterns/section-latest-grid.php:20
+msgid "Straight from the archive"
+msgstr ""
+
+#: patterns/section-latest-list.php
+msgctxt "Pattern title"
+msgid "Latest, two column list"
+msgstr ""
+
+#: patterns/section-latest-list.php
+msgctxt "Pattern description"
+msgid "A compact two column list of recent pieces showing category, title and date without images."
+msgstr ""
+
+#: patterns/section-latest-list.php:20
+msgid "Newest first"
+msgstr ""
+
+#: patterns/section-list-thumbs.php
+msgctxt "Pattern title"
+msgid "List with thumbnails"
+msgstr ""
+
+#: patterns/section-list-thumbs.php
+msgctxt "Pattern description"
+msgid "A single column list where each row has a small thumbnail beside the headline and excerpt."
+msgstr ""
+
+#: patterns/section-list-thumbs.php:16
+msgid "The digest"
+msgstr ""
+
+#: patterns/section-list-thumbs.php:20
+msgid "Everything else this week"
+msgstr ""
+
+#: patterns/section-magazine-cards.php
+msgctxt "Pattern title"
+msgid "Magazine cards, boxed"
+msgstr ""
+
+#: patterns/section-magazine-cards.php
+msgctxt "Pattern description"
+msgid "Three boxed cards on a surface background, each with an image, category, title and date."
+msgstr ""
+
+#: patterns/section-magazine-cards.php:16
+msgid "Recent work"
+msgstr ""
+
+#: patterns/section-magazine-cards.php:20
+msgid "Three to start with"
+msgstr ""
+
+#: patterns/section-masthead.php
+msgctxt "Pattern title"
+msgid "Masthead with heading"
+msgstr ""
+
+#: patterns/section-masthead.php
+msgctxt "Pattern description"
+msgid "A banded masthead carrying the page heading, a kicker and a standfirst. Use it once per page so the page has a single top level heading."
+msgstr ""
+
+#: patterns/section-newsletter.php
+msgctxt "Pattern title"
+msgid "Subscribe strip"
+msgstr ""
+
+#: patterns/section-newsletter.php
+msgctxt "Pattern description"
+msgid "A call to action inviting readers to subscribe. Holds no form, so add your own signup block or plugin block inside it."
+msgstr ""
+
+#: patterns/section-newsletter.php:16
+msgid "One email, every Friday"
+msgstr ""
+
+#: patterns/section-newsletter.php:20
+msgid "Get the week’s writing in one message."
+msgstr ""
+
+#: patterns/section-newsletter.php:24
+msgid "No tracking pixels, no drip sequence, and one click to leave. Drop your own signup block into this space."
+msgstr ""
+
+#: patterns/section-newspaper-front.php
+msgctxt "Pattern title"
+msgid "Newspaper front page"
+msgstr ""
+
+#: patterns/section-newspaper-front.php
+msgctxt "Pattern description"
+msgid "A broadsheet style block with one lead story beside a ruled column of secondary headlines."
+msgstr ""
+
+#: patterns/section-newspaper-front.php:16
+msgid "The front page"
+msgstr ""
+
+#: patterns/section-newspaper-front.php:20
+msgid "Lead story and the rest of the day"
+msgstr ""
+
+#: patterns/section-numbers.php
+msgctxt "Pattern title"
+msgid "Numbers strip"
+msgstr ""
+
+#: patterns/section-numbers.php
+msgctxt "Pattern description"
+msgid "A row of three or four large figures with short labels, for circulation, issues published or similar."
+msgstr ""
+
+#: patterns/section-numbers.php:18
+msgid "142"
+msgstr ""
+
+#: patterns/section-numbers.php:22
+msgid "Pieces published"
+msgstr ""
+
+#: patterns/section-numbers.php:30
+msgid "38"
+msgstr ""
+
+#: patterns/section-numbers.php:34
+msgid "Contributors paid"
+msgstr ""
+
+#: patterns/section-numbers.php:42
+msgid "0"
+msgstr ""
+
+#: patterns/section-numbers.php:46
+msgid "Trackers on this page"
+msgstr ""
+
+#: patterns/section-numbers.php:54
+msgid "7"
+msgstr ""
+
+#: patterns/section-numbers.php:58
+msgid "Years running"
+msgstr ""
+
+#: patterns/section-praise.php
+msgctxt "Pattern title"
+msgid "Praise, three quotes"
+msgstr ""
+
+#: patterns/section-praise.php
+msgctxt "Pattern description"
+msgid "Three short quotations side by side, for praise or reader letters."
+msgstr ""
+
+#: patterns/section-praise.php:15
+msgid "What readers say"
+msgstr ""
+
+#: patterns/section-praise.php:22
+msgid "The only place still writing about this properly."
+msgstr ""
+
+#: patterns/section-praise.php:34
+msgid "I read it on the train and think about it all week."
+msgstr ""
+
+#: patterns/section-praise.php:46
+msgid "No pop ups, no autoplay, no nonsense."
+msgstr ""
+
+#: patterns/section-process.php
+msgctxt "Pattern title"
+msgid "Process, numbered steps"
+msgstr ""
+
+#: patterns/section-process.php
+msgctxt "Pattern description"
+msgid "Four numbered steps describing a process, from pitch to publication."
+msgstr ""
+
+#: patterns/section-process.php:15
+msgid "From pitch to page"
+msgstr ""
+
+#: patterns/section-process.php:22
+msgid "01"
+msgstr ""
+
+#: patterns/section-process.php:26
+msgid "You pitch"
+msgstr ""
+
+#: patterns/section-process.php:30
+msgid "One paragraph on the idea. We answer within a fortnight either way."
+msgstr ""
+
+#: patterns/section-process.php:38
+msgid "02"
+msgstr ""
+
+#: patterns/section-process.php:42
+msgid "We commission"
+msgstr ""
+
+#: patterns/section-process.php:46
+msgid "Rate, length and deadline agreed in writing before you start."
+msgstr ""
+
+#: patterns/section-process.php:54
+msgid "03"
+msgstr ""
+
+#: patterns/section-process.php:58
+msgid "We edit"
+msgstr ""
+
+#: patterns/section-process.php:62
+msgid "Two passes, both with you, and nothing changes without your sign off."
+msgstr ""
+
+#: patterns/section-process.php:70
+msgid "04"
+msgstr ""
+
+#: patterns/section-process.php:74
+msgid "You are paid"
+msgstr ""
+
+#: patterns/section-process.php:78
+msgid "On acceptance, not on publication, and never in exposure."
+msgstr ""
+
+#: patterns/section-quote.php
+msgctxt "Pattern title"
+msgid "Quotation band"
+msgstr ""
+
+#: patterns/section-quote.php
+msgctxt "Pattern description"
+msgid "A full width band holding a single large quotation, for breaking up a long page."
+msgstr ""
+
+#: patterns/section-quote.php:15
+msgid "“Replace this with a line worth stopping for. One sentence is usually enough.”"
+msgstr ""
+
+#: patterns/section-quote.php:19
+msgid "Attribution"
+msgstr ""
+
+#: patterns/section-ranked-list.php
+msgctxt "Pattern title"
+msgid "Most read, ranked"
+msgstr ""
+
+#: patterns/section-ranked-list.php
+msgctxt "Pattern description"
+msgid "A numbered list of pieces in two columns, in the style of a most read box."
+msgstr ""
+
+#: patterns/section-ranked-list.php:17
+msgid "Most read"
+msgstr ""
+
+#: patterns/section-ranked-list.php:21
+msgid "What people came back to"
+msgstr ""
+
+#: patterns/section-search-band.php
+msgctxt "Pattern title"
+msgid "Search band"
+msgstr ""
+
+#: patterns/section-search-band.php
+msgctxt "Pattern description"
+msgid "A centred search bar on a surface band, for the top of an archive or blog page."
+msgstr ""
+
+#: patterns/section-search-band.php:16
+msgid "Looking for something?"
+msgstr ""
+
+#: patterns/section-search-band.php:20
+msgid "The whole archive is open and free to read."
+msgstr ""
+
+#: patterns/section-search-band.php:23
+msgctxt "search form placeholder"
+msgid "Search the archive"
+msgstr ""
+
+#: patterns/section-three-columns.php
+msgctxt "Pattern title"
+msgid "Three column text"
+msgstr ""
+
+#: patterns/section-three-columns.php
+msgctxt "Pattern description"
+msgid "Three columns of running text under a shared heading, in the style of a newspaper leader."
+msgstr ""
+
+#: patterns/section-three-columns.php:15
+msgid "What we believe"
+msgstr ""
+
+#: patterns/section-three-columns.php:21
+msgid "Craft reporting is worth doing properly. That means talking to the people holding the tools rather than reading the press release, and printing what they actually said."
+msgstr ""
+
+#: patterns/section-three-columns.php:27
+msgid "Kit is not the story, but it is never nothing either. What a tool makes easy shapes what gets made, and that is worth writing about honestly."
+msgstr ""
+
+#: patterns/section-three-columns.php:33
+msgid "A reader who finishes one piece is worth more than ten who bounce. Replace these three columns with your own position."
+msgstr ""
+
+#: patterns/section-topics.php
+msgctxt "Pattern title"
+msgid "Topics grid"
+msgstr ""
+
+#: patterns/section-topics.php
+msgctxt "Pattern description"
+msgid "A band listing the sections of the publication so readers can browse by subject."
+msgstr ""
+
+#: patterns/section-topics.php:16
+msgid "Browse by section"
+msgstr ""
+
+#: patterns/section-topics.php:20
+msgid "Every piece we publish sits in one of these"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Muted"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Line"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Newsreader"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Display"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page, wide (no sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page, no title (landing)"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
